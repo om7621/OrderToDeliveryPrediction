@@ -1,0 +1,13 @@
+numpy
+scikit-learn
+pandas
+pickle
+xgboost
+streamli
+numpy
+scikit-learn
+pandas
+pickle
+xgboost
+streamlit
+Pillow
